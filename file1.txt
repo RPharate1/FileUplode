@@ -1,0 +1,7 @@
+$ touch file1.txt ==> to create new file
+
+Lenovo@Rushikesh MINGW64 /f/Git
+$ git status
+fatal: not a git repository (or any of the parent directories): .git
+
+Means we didnt create any repository of out local folder
